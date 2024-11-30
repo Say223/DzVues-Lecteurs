@@ -1,5 +1,5 @@
-# DzVues - Lecteurs
-The "Lecteurs" repository is dedicated to the reader-side application of a desktop management system for national magazines, developed using Java. This application provides functionality for readers to interact with the system, access magazine content, and perform various actions related to reading and subscribing to magazines.
+# DzVues - Readers
+The "Readers" repository is dedicated to the reader-side desktop application of the national magazine management system, developed using Java. This application provides readers with an intuitive platform to browse, purchase, and access digital magazines, explore featured content, and stay updated with the latest publications.
 
 ## Features
 - User Authentication: Secure login functionality for readers to access their personalized accounts.
